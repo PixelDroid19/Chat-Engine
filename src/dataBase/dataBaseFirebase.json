@@ -1,0 +1,45 @@
+{
+  "usuarios": {
+    "Hernani": {
+      "amigos": [],
+      "chats": [
+        {
+        "personas":[],
+        "mensajes":[
+          {
+            "enviador": "",
+            "hora": "",
+            "type": "",
+            "mensaje": ""
+          }
+        ],
+        "imagenes":{},
+        "videos":{},
+        "audios":{}
+        }
+      ],
+      "grupos": [
+        {
+          "KarinLoaisa": {
+            "integrantes":[],
+            "datos":{
+              "fotos":[],
+              "videos":[],
+              "audios":[],
+              "archivos":[]
+            },
+            "mensajes": [
+              {
+                "enviador": "",
+                "hora" : "",
+                "type":"",
+                "mensaje":""
+              }
+            ]
+          }
+        }
+      ],
+      "tareas": [{}]
+    }
+  }
+}
